@@ -1,5 +1,6 @@
 # HMM
 HMM for detection of CpG-CpH differentially methylated regions
+details are described in https://openlooper.hgc.jp/cphHMM/
 
 perl script/get.hmm.pl [path/input file] [output_dir]
 
